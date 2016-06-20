@@ -1,0 +1,10 @@
+c:\users\snehithkumar\documents\visual studio 2012\Projects\MesgService\WebHttpCors\obj\Debug\WebHttpCors.csprojResolveAssemblyReference.cache
+c:\users\snehithkumar\documents\visual studio 2012\Projects\MesgService\WebHttpCors\bin\Debug\WebHttpCors.dll
+c:\users\snehithkumar\documents\visual studio 2012\Projects\MesgService\WebHttpCors\bin\Debug\WebHttpCors.pdb
+c:\users\snehithkumar\documents\visual studio 2012\Projects\MesgService\WebHttpCors\obj\Debug\WebHttpCors.dll
+c:\users\snehithkumar\documents\visual studio 2012\Projects\MesgService\WebHttpCors\obj\Debug\WebHttpCors.pdb
+C:\Users\SnehithKumar\Desktop\MesgService\WebHttpCors\bin\Debug\WebHttpCors.dll
+C:\Users\SnehithKumar\Desktop\MesgService\WebHttpCors\bin\Debug\WebHttpCors.pdb
+C:\Users\SnehithKumar\Desktop\MesgService\WebHttpCors\obj\Debug\WebHttpCors.csprojResolveAssemblyReference.cache
+C:\Users\SnehithKumar\Desktop\MesgService\WebHttpCors\obj\Debug\WebHttpCors.dll
+C:\Users\SnehithKumar\Desktop\MesgService\WebHttpCors\obj\Debug\WebHttpCors.pdb
